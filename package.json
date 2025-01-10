@@ -1,6 +1,6 @@
 {
   "name": "hi-abimel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package to introduce Abimel S B kulumala",
   "type": "module",
   "main": "index.js",
