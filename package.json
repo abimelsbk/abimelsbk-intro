@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "npx abimel": "./index.js"
+    "abimel": "index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -19,7 +19,6 @@
   "author": "Abimel S B kulumala",
   "license": "ISC",
   "dependencies": {
-    "abimel": "^1.0.0",
     "chalk": "^5.4.1"
   }
 }
